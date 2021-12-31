@@ -13,4 +13,6 @@ for cord in table:
     square +=1
     if distance <= 1:
         circle+=1
+        # This is sparta
 print((circle/square)*4)
+print("yes")
